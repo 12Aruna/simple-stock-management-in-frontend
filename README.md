@@ -34,21 +34,33 @@ Password: jduejHje(89K
 
 ## Screenshots
 
-![Screenshot 1](./meta/img/screenshot_1.png?raw=true)
-![Screenshot 2](./meta/img/screenshot_2.png?raw=true)
-![Screenshot 4](./meta/img/screenshot_4.png?raw=true)
+![screenshot_1](https://github.com/12Aruna/simple-stock-management-in-frontend/assets/122152267/d7b45b35-5cd0-45cb-94d1-41f512ff255f)
 
-![Screenshot 6](./meta/img/screenshot_6.png?raw=true)
-![Screenshot 7](./meta/img/screenshot_7.png?raw=true)
-![Screenshot 8](./meta/img/screenshot_8.png?raw=true)
-![Screenshot 5](./meta/img/screenshot_5.png?raw=true)
-![Screenshot 9](./meta/img/screenshot_9.png?raw=true)
-![Screenshot 10](./meta/img/screenshot_10.png?raw=true)
+![screenshot_2](https://github.com/12Aruna/simple-stock-management-in-frontend/assets/122152267/dee50bc6-b17f-4220-9bef-0662b7f644cf)
+
+![screenshot_4](https://github.com/12Aruna/simple-stock-management-in-frontend/assets/122152267/88b0d89d-ef09-4888-934f-bf98a16682b5)
+
+![screenshot_6](https://github.com/12Aruna/simple-stock-management-in-frontend/assets/122152267/e9fc9f28-eb75-45df-b1f1-4db24100ceee)
+
+![screenshot_7](https://github.com/12Aruna/simple-stock-management-in-frontend/assets/122152267/8f497020-531e-4941-9f37-d8f2ecb0f515)
+
+
+![screenshot_8](https://github.com/12Aruna/simple-stock-management-in-frontend/assets/122152267/431afe0f-5bea-4ac3-af91-026c39dc5ba8)
+
+![screenshot_5](https://github.com/12Aruna/simple-stock-management-in-frontend/assets/122152267/c429deb9-3f14-48b7-b154-20813967eae3)
+
+
+
+
+
+
+
+
 
 ## Key features
 
 - Administrator may add, edit and delete stock from database.
-- Store managers may request transfers ("order") stock from the "warehouse".
+est transfers ("order") stock from the "warehouse".
 - Dynamic search of stock lines (SKU and description).
 - Configurable pagination of results table.
 - Transfer requests of stock lines are loaded to a "truck" (i.e. like "adding to a basket/cart" in an e-commerce system), before the request is submitted.
